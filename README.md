@@ -10,3 +10,5 @@
 
 
 Please do not use the gerber files, the board is not tested yet!
+
+![alt text](https://github.com/hugovw1976/rusEFI_R42_ECU/blob/main/R42_ECU5.png)
