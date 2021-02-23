@@ -7,6 +7,10 @@
 - 4x Analog temperature (5v pullup) inputs
 - 2x VR crank/cam/vehicle speed inputs
 - 6x hall cam/crank or digital input (-2 if VR sensors used)
+- Base on proteus board (intended for use with proteus firmware microcontroller, pin matched to correspond output)
+
+rusEFI project: https://github.com/rusefi/rusefi
+Proteus project: https://github.com/mck1117/proteus
 
 
 Please do not use the gerber files, the board is not tested yet!
